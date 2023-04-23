@@ -45,7 +45,7 @@ export const coursesCard = [
   {
     id: 1,
     cover: "../images/courses/c1.png",
-    coursesName: "Introducing to Software Engineering",
+    coursesName: "Effective Communication Skills",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -53,13 +53,13 @@ export const coursesCard = [
         totalTime: "50 lectures (190 hrs)",
       },
     ],
-    priceAll: "$100 All Course",
-    pricePer: "$15 per month",
+    priceAll: "Rs 100 All Course",
+    pricePer: "Rs 15 per month",
   },
   {
     id: 2,
     cover: "../images/courses/c2.png",
-    coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
+    coursesName: "Emotional Intelligence and Self-Awareness",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -67,13 +67,13 @@ export const coursesCard = [
         totalTime: "30 lectures (125 hrs)",
       },
     ],
-    priceAll: "$200 All Course",
-    pricePer: "$25 per month",
+    priceAll: "Rs 200 All Course",
+    pricePer: "Rs 25 per month",
   },
   {
     id: 3,
     cover: "../images/courses/c3.png",
-    coursesName: "HTML, CSS, and Javascript for Web Developers",
+    coursesName: "Critical Thinking and Problem-Solving",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -81,8 +81,8 @@ export const coursesCard = [
         totalTime: "50 lectures (50 hrs)",
       },
     ],
-    priceAll: "$50 All Course",
-    pricePer: "$5 per month",
+    priceAll: "Rs 50 All Course",
+    pricePer: "Rs 5 per month",
   },
   {
     id: 4,
@@ -95,8 +95,8 @@ export const coursesCard = [
         totalTime: "20 lectures (20 hrs)",
       },
     ],
-    priceAll: "$30 All Course",
-    pricePer: "$3 per month",
+    priceAll: "Rs 30 All Course",
+    pricePer: "Rs 3 per month",
   },
   {
     id: 5,
@@ -109,8 +109,8 @@ export const coursesCard = [
         totalTime: "100 lectures (150 hrs)",
       },
     ],
-    priceAll: "$300 All Course",
-    pricePer: "$30 per month",
+    priceAll: "Rs 300 All Course",
+    pricePer: "Rs 30 per month",
   },
   {
     id: 6,
@@ -123,8 +123,8 @@ export const coursesCard = [
         totalTime: "200 lectures (300 hrs)",
       },
     ],
-    priceAll: "$500 All Course",
-    pricePer: "$80 per month",
+    priceAll: "Rs 500 All Course",
+    pricePer: "Rs 80 per month",
   },
   {
     id: 7,
@@ -137,8 +137,8 @@ export const coursesCard = [
         totalTime: "20 lectures (50 hrs)",
       },
     ],
-    priceAll: "$20 All Course",
-    pricePer: "$2 per month",
+    priceAll: "Rs 20 All Course",
+    pricePer: "Rs 2 per month",
   },
   {
     id: 8,
@@ -151,8 +151,8 @@ export const coursesCard = [
         totalTime: "80 lectures (200 hrs)",
       },
     ],
-    priceAll: "$200 All Course",
-    pricePer: "$40 per month",
+    priceAll: "Rs 200 All Course",
+    pricePer: "Rs 40 per month",
   },
   {
     id: 9,
@@ -165,8 +165,8 @@ export const coursesCard = [
         totalTime: "50 lectures (50 hrs)",
       },
     ],
-    priceAll: "$20 All Course",
-    pricePer: "$3 per month",
+    priceAll: "Rs 20 All Course",
+    pricePer: "Rs 3 per month",
   },
 ]
 export const online = [
