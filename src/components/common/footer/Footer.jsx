@@ -74,7 +74,7 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                SRM Institute of Science and Technology, Potheri, Chennai, Pin Code: 603203
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by GorkhCoder
+          Copyright ©2023 All rights reserved | This template is made with <i className='fa fa-heart'></i> by Team 404
         </p>
       </div>
     </>
