@@ -69,6 +69,7 @@ footer .link li::before {
   margin-right: 5px;
 }
 footer .items {
+  display: flex;
   margin-bottom: 30px;
 }
 footer .items img {

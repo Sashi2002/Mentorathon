@@ -339,7 +339,7 @@ export const blog = [
   {
     id: 1,
     type: "admin",
-    date: "MAY. 18, 2023",
+    date: "APRIL 23, 2023",
     com: "3 COMMENTS ",
     title: "Effective Communication",
     desc: "The ability to convey information clearly and efficiently to others.",
@@ -348,7 +348,7 @@ export const blog = [
   {
     id: 2,
     type: "admin",
-    date: "JUNE. 25, 2023",
+    date: "APRIL 23, 2023",
     com: "5 COMMENTS ",
     title: "Time Management",
     desc: "The ability to prioritize tasks, manage time effectively and accomplish goals within set deadlines.",
@@ -357,7 +357,7 @@ export const blog = [
   {
     id: 3,
     type: "user",
-    date: "JULY. 15, 2023",
+    date: "APRIL 24, 2023",
     com: "10 COMMENTS ",
     title: "Presentation Skills and Public Speaking",
     desc: "The ability to deliver clear and effective presentations, engage an audience and communicate effectively.",
@@ -366,7 +366,7 @@ export const blog = [
   {
     id: 4,
     type: "admin",
-    date: "AUG. 02, 2023",
+    date: "APRIL 24, 2023",
     com: "3 COMMENTS ",
     title: "Stress Management",
     desc: "The skill of managing stress and maintaining mental and emotional wellbeing in challenging situations.",
@@ -375,7 +375,7 @@ export const blog = [
   {
     id: 5,
     type: "admin",
-    date: "DEC. 14, 2023",
+    date: "APRIL 24, 2023",
     com: "3 COMMENTS ",
     title: "Networking and Relationship Building",
     desc: "The skill of building and maintaining professional relationships and networks to achieve personal and professional goals.",
@@ -384,7 +384,7 @@ export const blog = [
   {
     id: 6,
     type: "user",
-    date: "JAN. 18, 2024",
+    date: "APRIL 23, 2023",
     com: "12 COMMENTS ",
     title: "Creativity and Innovation",
     desc: "The skill of generating new ideas, thinking outside the box and finding innovative solutions to problems.",

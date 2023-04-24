@@ -51,7 +51,7 @@ const Footer = () => {
           <div className='box'>
             <h3>Recent Post</h3>
             {blog.slice(0, 3).map((val) => (
-              <div className='items flexSB'>
+              <div className='items'>
                 <div className='img'>
                   <img src={val.cover} alt='' />
                 </div>
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2023 All rights reserved | This template is made with <i className='fa fa-heart'></i> by Team 404
+          Copyright ©2023 All rights reserved | This template is made with <i className='fa fa-heart'></i> by HackOverFlow
         </p>
       </div>
     </>
